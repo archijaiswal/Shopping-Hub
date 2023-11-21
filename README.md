@@ -1,4 +1,4 @@
-Link to the website [https://cosmic-marigold-978576.netlify.app/](https://cosmic-marigold-978576.netlify.app/)
+Link to the website [https://shoppinghubecom.netlify.app/cart](https://shoppinghubecom.netlify.app/cart)
 
 
 # Getting Started with Create React App
