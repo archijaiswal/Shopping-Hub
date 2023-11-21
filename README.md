@@ -1,4 +1,4 @@
-Link to the website [https://shoppinghubecom.netlify.app/cart](https://shoppinghubecom.netlify.app/cart)
+Link to the website [https://shoppinghubecom.netlify.app/](https://shoppinghubecom.netlify.app/)
 
 
 # Getting Started with Create React App
